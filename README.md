@@ -52,10 +52,15 @@ Fine-tuned Mistral-7B using LoRA/PEFT on a Google Colab T4 GPU. Built mixed real
 * **U.S. Patent:** Patent No. 9,477,128 — Graphene/Metal Nanowire Hybrid Transparent Conductive Films.
 
   #### SEELCTED PUBLICATIONS 
-Kholmanov, I. et al., Continuous Carbon Nanotube–Ultrathin Graphite Hybrid Foams for Enhanced Thermal Conductivity and Suppressed Subcooling in Composite Phase Change Materials. ACS Nano 9, (2015). https://doi.org/10.1021/acsnano.5b02917
-Kholmanov, I. et al., Optical, Electrical and Electromechanical Properties of Hybrid Graphene–Carbon Nanotube Films, Adv. Mater. 27, (2015). https://doi.org/10.1002/adma.201500785
-Kholmanov, I. et al., Reduced Graphene Oxide/Copper Nanowire Hybrid Films as High-Performance Transparent Electrodes, ACS Nano 7, (2013). https://doi.org/10.1021/nn3060175
+Kholmanov, I. et al., Continuous Carbon Nanotube–Ultrathin Graphite Hybrid Foams for Enhanced Thermal Conductivity and Suppressed Subcooling in Composite Phase Change Materials. ACS Nano 9, (2015). https://doi.org/10.1021/acsnano.5b02917.  
+
+Kholmanov, I. et al., Optical, Electrical and Electromechanical Properties of Hybrid Graphene–Carbon Nanotube Films, Adv. Mater. 27, (2015).               https://doi.org/10.1002/adma.201500785.        
+
+Kholmanov, I. et al., Reduced Graphene Oxide/Copper Nanowire Hybrid Films as High-Performance Transparent Electrodes, ACS Nano 7, (2013). https://doi.org/10.1021/nn3060175.        
+
 Kholmanov, I. et al., Improved Electrical Conductivity of Graphene Films Integrated with Metal Nanowires, Nano Letters 12, (2012).https://doi.org/10.1021/nl302870x
+
+
 Kholmanov, I. et al., Book chapter on graphene/metal-nanowire hybrid transparent conductive films, in Recent Trends in Nanomaterials: Synthesis and Properties. (Springer, 2017) 10.1007/978-981-10-3842-6_5
 
 ### 📫 How to Reach Me:
